@@ -1,0 +1,16 @@
+#text-card-action {
+    color: #D9D9D9;
+}
+
+#text-card-action:hover {
+    transition: all 200ms ease-in-out;
+    color: #70D44B;
+}
+
+#servicos > h2 {
+    text-align: center;
+    margin-top: 1em;
+    font-size: 36px;
+    font-weight: bold;
+    color: black;
+}

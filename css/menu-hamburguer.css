@@ -1,0 +1,54 @@
+#icon-menu {
+    width: 30px;
+    height: 30px;
+}
+
+.menu-hamburguer {
+    background-color: black;
+    position: absolute;
+    right: 0;
+    top: 150px;
+    width: 100%;
+    height: 40%;
+    z-index: 2;
+}
+
+.nav-content2 > ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+   
+}
+
+.nav-content2 > ul > li {
+    margin-top: 15px;
+}
+
+.menu-hamburguer, #menu-hamburguer, #icon-menu {
+    display: none;
+}
+
+
+
+@media (max-width: 500px) {
+    #icon-menu {
+        display: block;
+    }
+}
+
+#menu-hamburguer:checked ~ .menu-hamburguer {
+    display: block;
+}
+
+#login{
+    background-color: black;
+    border: 1px solid #70D44B;
+
+}
+#login:hover{
+    background-color: #70D44B;
+    color: black;
+}
+

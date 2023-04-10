@@ -1,0 +1,30 @@
+.green1 {
+    background-color: #70d44b;
+}
+
+.green1-text {
+    color:#70d44b;
+}
+
+.cinza1 {
+    background-color: #24272A;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+i {
+    color: #70d44b;
+}
+
+.cor-fundo{
+    height: 100vh;
+    width: 100vw;
+    background-color: #24272A;
+    /* background-color: #FFFFFF; */
+}
+.cor-box{
+    background-color: #24272A;
+    border-radius: 1rem;
+}

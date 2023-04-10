@@ -1,0 +1,16 @@
+#avaliacoes > h2 {
+    text-align: center;
+    margin-top: 1em;
+    font-size: 36px;
+    font-weight: bold;
+    color: black;
+}
+
+#card-avaliacao{
+    background-color: #24272A;
+}
+
+.avaliacao {
+    border-radius: 20px;
+}
+

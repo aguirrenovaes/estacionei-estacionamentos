@@ -1,0 +1,32 @@
+.underline {
+    width: 15%;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    background-color: #70D44B;
+    border: 2px solid #70D44B;
+}
+
+.divisor {
+    width: 100%;
+    height: 80px;
+
+    background-color: #161518;
+    border: none;
+}
+
+
+#divisor {
+    width: 100%;
+    height: 80px;
+    background-image: url(../../img/home/faixa.avif);
+    background-position: center;
+
+    /* background-color: #161518; */
+    border: none;
+}
+
+@media (max-width: 425px) {
+    .underline {
+        width: 40%;
+    }
+}

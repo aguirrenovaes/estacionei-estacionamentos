@@ -1,0 +1,33 @@
+input{
+    color: white;
+}
+
+main{
+    text-align: center;
+    width: 100%;
+}
+
+#saida{
+    background-color: #24272A;
+    border: 1px solid #70D44B;
+    margin-top: 10px;
+}
+#saida:hover{
+    background-color: red;
+    color: white;
+}
+
+#card {
+    border: 2px solid #24272A;
+    border-radius: 10px;
+}
+
+#login{
+    background-color: black;
+    border: 1px solid #70D44B;
+
+}
+#login:hover{
+    background-color: #70D44B;
+    color: black;
+}

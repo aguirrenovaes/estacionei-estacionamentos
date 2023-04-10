@@ -1,0 +1,29 @@
+.green1 {
+    background-color: #70d44b;
+}
+
+.green1-text {
+    color:#70d44b;
+}
+
+.cinza1 {
+    background-color: #24272A;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+i {
+    color: #70d44b;
+}
+
+#icons-banner {
+    text-align: center;
+}
+
+@media (max-width: 500px) {
+    #icons-banner {
+        text-align: right;
+    }
+}

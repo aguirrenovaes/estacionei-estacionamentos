@@ -1,0 +1,21 @@
+
+
+
+.form-box{
+    background-color: #24272A;
+    /* background-color: #161518; */
+    border-radius: 1rem;
+
+    
+}
+
+#btn{
+    margin-top: 5em;
+    background-color: #24272A ;
+    border: 1px solid #70D44B;
+}
+#btn:hover{
+    background-color: #70D44B;
+    color: black;
+}
+

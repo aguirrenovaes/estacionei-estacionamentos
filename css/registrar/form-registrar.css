@@ -1,0 +1,41 @@
+.cor-box{
+    background-color: #24272A;
+    /* background-color: #161518; */
+    border-radius: 1rem;
+
+}
+
+#login{
+    background-color: #24272A;
+    border: 1px solid #70D44B;
+
+}
+#login:hover{
+    background-color: #70D44B;
+    color: black;
+}
+
+#eye{
+    background-color: #24272A;
+    border: none solid #70D44B;
+}
+#eye:hover{
+    cursor: pointer;
+}
+
+
+input{
+    color: white;
+}
+
+main{
+    /* position: absolute; */
+    text-align: center;
+    width: 100%;
+}
+
+form{
+    position: relative;
+    display: inline-block;
+}
+
